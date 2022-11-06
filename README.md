@@ -1,7 +1,7 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
-#### Name :	H.Syed Abdul Wasih 
-#### Register No: 212221240057
-#### Date of experiment : 05/11/2022
+#### Name : Shyam Naveen Raj
+#### Register No: 212221230099
+#### Date of experiment : 06/11/2022
 ## Aim: 
 To configure internal ADC for LPC2148 ARM 7 and write a code for displaying the values varying from 0v to 3.3v to its equivalent digital values 
 ## Components required: 
@@ -199,11 +199,11 @@ int main()
 ## Output screen shots :
 
 ### Display Off:
-![1](https://user-images.githubusercontent.com/91781810/200116688-0c8a0b90-cb91-455b-a239-721d3523dca2.png)
+![1](https://user-images.githubusercontent.com/94882357/200182946-5b888ebd-283d-40ca-aa94-8b62ce829295.png)
 ### Display On:
-![2](https://user-images.githubusercontent.com/91781810/200116700-7892f0dd-97f6-45ab-b775-c3b76896b3bd.png)
+![2](https://user-images.githubusercontent.com/94882357/200182954-eeac3d23-8d07-4c88-b7d6-2c8daf78a8bc.png)
 ### Layout Diagram:
-![3](https://user-images.githubusercontent.com/91781810/200116704-47505b7b-8d6f-4b1b-a0bb-208009b41904.png)
+![3](https://user-images.githubusercontent.com/94882357/200182964-a79efa2a-5e0d-4bf9-aaaf-01a28a86261b.png)
 ## Tabulations and graph:
 ![4](https://user-images.githubusercontent.com/91781810/200159704-d1e7ba16-8b20-4b3d-8d3f-7fd79161a372.png)
 ## Graph between % of pot(1 Kohm) values and ADC:
